@@ -1,1 +1,1 @@
-# wojjarSealCode
+Repository SealCode Wojtek Jarzębiński
